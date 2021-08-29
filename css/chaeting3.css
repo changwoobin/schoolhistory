@@ -1,0 +1,406 @@
+.icon {
+    width: 16px;
+    height: 16px;
+}
+.name {
+    font-size: 16px;
+    display: inline;
+    padding-bottom: 5px;
+}
+#right {
+    float: right;
+    margin-right: 10px;
+}
+
+#left {
+    margin-left: 10px;
+}
+header {
+    height: 22px;
+    width: 100%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin: 0px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: skyblue;
+    display: block;
+}
+html {
+    background-color: skyblue;
+}
+#icon_r {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: white;
+    position:fixed; 
+    left:0px; 
+    bottom:0px; 
+}
+body {
+    padding-top: 50px;
+    background-color: skyblue;
+    padding-bottom: 55px;
+}
+.icon_face {
+    width: 30px;
+    height: 30px;
+    border-radius: 11px;
+    float: left;
+}
+.float-container .msg {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin: 0;
+    margin-left: 35px;
+    border-radius: 9px;
+    background-color: white;
+    width: 150px;
+    font-size: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.time, .timea, .timeb {
+    font-size: 11px;
+    color: #999;
+    width: 65px;
+}
+.chat_name, .chat_nameb {
+    font-size: 12px;
+    margin-left: 5px;
+}
+footer .icon {
+    width: 25px;
+    height: 25px;
+    margin-left: 5px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+footer input {
+    width: 200px;
+    background-color: white;
+    cursor:pointer;
+    height: 25px;
+    border: none;
+    margin-bottom: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 50px;
+    float: center;
+}
+.footer-right {
+    float: right;
+}
+.float-container .time {
+    position: absolute;
+    left: 205px;
+    top: 110px;
+}
+footer {
+    padding: 0;
+}
+
+.inner {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.msg-me {
+    border-radius: 9px;
+    background-color: rgb(247, 231, 113);
+    width: 250px;
+    font-size: 15px;
+    padding: 0px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.asking-him0 {
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.time-me {
+    font-size: 11px;
+    color: #999;
+}  
+.float-container3 .msgv {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+    margin: 0;
+    margin-left: 35px;
+    border-radius: 9px;
+    background-color: white;
+    width: 140px;
+    font-size: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.asking-him0 .time-me {
+    position: absolute;
+    right: 220px;
+    top: 155px;
+}
+.float-container1 .msg {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 35px;
+    border-radius: 9px;
+    background-color: white;
+    width: 200px;
+    font-size: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container1 .time {
+    position: absolute;
+    left: 253px;
+    top: 260px;
+}
+.float-container1 {
+    transition-duration: 2s;
+}
+.sunb {
+    margin-left: 35px;
+}
+.asking-him1 {
+    text-align: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 0;
+    margin-left: auto;
+}
+.asking-him1 .msg-me {
+    width: 200px;
+    float: right;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.asking-him1 .time-me {
+    position: absolute;
+    right: 220px;
+    top: 338px;
+}
+.float-container2 {
+    margin-top: 100px;
+}
+.float-container2 .msg {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-bottom: 5px;
+    margin-left: 35px;
+    border-radius: 9px;
+    background-color: white;
+    width: 200px;
+    font-size: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container2 .msg2 {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 35px;
+    border-radius: 9px;
+    background-color: white;
+    width: 200px;
+    font-size: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container2 .time {
+    position: absolute;
+    left: 255px;
+    top: 600px;
+}
+.asking-him2 .msg-me {
+    width: 170px;
+    float: right;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.asking-him2 {
+    margin-top: 10px;
+}
+.asking-him2 .time-me {
+    position: absolute;
+    right: 189px;
+    top: 668px;
+}
+.float-container3 .msg {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 35px;
+    border-radius: 9px;
+    background-color: white;
+    width: 200px;
+    font-size: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container3 {
+    margin-top: 70px;
+}
+.float-container3 .sun {
+    width: 120px;
+    height: 120px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.float-container3 .msga {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 27px;
+    border-radius: 9px;
+    background-color: white;
+    width: 57px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container3 .times {
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 30px;
+} 
+.float-container3 .msgd {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 27px;
+    border-radius: 9px;
+    background-color: white;
+    width: 160px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container3 .msgs {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 27px;
+    border-radius: 9px;
+    background-color: white;
+    width: 190px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container3 .msgc {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 27px;
+    border-radius: 9px;
+    background-color: white;
+    width: 200px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.float-container3 .timea {
+    position: absolute;
+    left: 250px;
+    top: 1036px;
+}
+.float-container3 .timeb {
+    position: absolute;
+    left: 240px;
+    top: 1780px;
+}
+.asking-him3 .msg-me {
+    width: 200px;
+    float: right;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.asking-him3 .time-me {
+    position: absolute;
+    right: 220px;
+    top: 1841px;
+}
+.float-container4 .msg {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 27px;
+    border-radius: 9px;
+    background-color: white;
+    width: 190px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.null {
+    height: 100px;
+}
+.float-container4 {
+    margin-top: 80px;
+}
+.float-container4 .time {
+    position: absolute;
+    left: 170px;
+    top: 2064px;
+}
+.float-container4 .msga {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 27px;
+    border-radius: 9px;
+    background-color: white;
+    width: 190px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.hidden {
+    display: none;
+}
+.float-container4 .msgd {
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin: 0;
+    margin-left: 27px;
+    border-radius: 9px;
+    background-color: white;
+    width: 120px;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
