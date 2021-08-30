@@ -124,6 +124,7 @@ footer {
     padding-left: 5px;
     padding-top: 3px;
     padding-bottom: 3px;
+    display: inline;
 }
 .asking-him0 {
     text-align: right;
@@ -134,11 +135,11 @@ footer {
     font-size: 11px;
     color: #999;
 }
-.asking-him0 .time-me {
+/* .asking-him0 .time-me {
     position: absolute;
     right: 220px;
     top: 155px;
-}
+} */
 .float-container1 .msg {
     text-align: left;
     padding-left: 10px;
